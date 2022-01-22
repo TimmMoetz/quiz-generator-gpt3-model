@@ -1,0 +1,1 @@
+key = 'YOUR_OPENAI_KEY'
